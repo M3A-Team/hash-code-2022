@@ -28,5 +28,3 @@ Our Code for Hash Code 2022 Qualification Round "Mentorship and Teamwork" Partic
 - [Ahmed Azzam](https://github.com/AhmedAzzam99)
 - [Ahmed Zakaria](https://github.com/Ahmed-Zakaria96)
 - [Mohamed Nasser](https://github.com/Mohamed-AN)
-
-## More details will be added later
